@@ -50,7 +50,7 @@ public class EXP_Player : MonoBehaviour
         {
             _Status = Status.Null;
             Txt_UserName.text = "";
-            User_PIC.icon.sprite = AB_PlayerManager.Inst.EmptySeat_Sprite;
+            //User_PIC.icon.sprite = AB_PlayerManager.Inst.EmptySeat_Sprite;
             Vip_Ring.sprite = GS.Inst.VIP_RING_LIST[0];
 
             _Status = Status.Null;

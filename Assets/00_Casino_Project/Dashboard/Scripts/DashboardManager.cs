@@ -24,65 +24,12 @@ public class DashboardManager : MonoBehaviour
         UnityEngine.Debug.Log("REJOIN: "+ GS.Inst.GameType);
         if (GS.Inst.Rejoin)
         {
-            if (GS.Inst.GameType.Equals("dragon_tiger"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[0].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("roulette"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[1].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("crash_game"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[2].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("SlotMachin"))
+            
+            if (GS.Inst.GameType.Equals("SlotMachin"))
             {
                 PreeLoader.Inst.Show();
                 Addrasable_Scene_List[3].LoadScene();
             }
-            else if (GS.Inst.GameType.Equals("car_game"))
-            {
-                PreeLoader.Inst.Show();
-                //SceneManager.LoadScene(4);
-                Addrasable_Scene_List[4].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("horse_racing"))
-            {
-                PreeLoader.Inst.Show();
-                //SceneManager.LoadScene(3);
-                Addrasable_Scene_List[5].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("teenpatti"))
-            {
-                PreeLoader.Inst.Show();
-                SocketHandler.Inst.SendData(SocketEventManager.Inst.TEENPATTI_ReJoinTable());
-                //Addrasable_Scene_List[5].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("seven_up"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[7].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("andar_bahar"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[8].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("zoo_game"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[9].LoadScene();
-            }
-            else if (GS.Inst.GameType.Equals("mines_game"))
-            {
-                PreeLoader.Inst.Show();
-                Addrasable_Scene_List[10].LoadScene();
-            }
-
         }
 
         Girl_Come();

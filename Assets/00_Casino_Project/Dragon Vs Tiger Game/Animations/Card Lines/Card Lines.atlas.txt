@@ -1,6 +1,0 @@
-Card Lines.png
-size:260,260
-filter:Linear,Linear
-pma:true
-Card Lines
-bounds:2,2,65,253

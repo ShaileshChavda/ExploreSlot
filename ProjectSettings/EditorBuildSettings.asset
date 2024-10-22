@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Casino_Project/Splace.unity
+    guid: 057ebcd2522ceb745b91837f47b56f28
+  - enabled: 1
+    path: Assets/00_Casino_Project/Login.unity
+    guid: 5d785e36b01491d41a1af757a747218f
+  - enabled: 1
+    path: Assets/00_Casino_Project/Dashboard.unity
+    guid: e39ecc21a638e74439c084d42b27c8fb
+  - enabled: 1
+    path: Assets/00_Casino_Project/Slot_Machin/Scenes/SlotMachin.unity
+    guid: abf0f13ce34287748b790cca71663f37
+  - enabled: 1
+    path: Assets/00_Casino_Project/Explore_2/Scene/Explore2.unity
+    guid: 89e28f11f3533024da392f972c466f4f
   m_configObjects: {}

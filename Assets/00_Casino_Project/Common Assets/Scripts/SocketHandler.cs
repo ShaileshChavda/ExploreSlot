@@ -327,26 +327,6 @@ public class SocketHandler : MonoBehaviour
                 AppPause = true;
                 socket.sid = "";
                 socket.Close();
-
-                if (SceneManager.GetActiveScene().name.Equals("Roulette"))
-                    Roullate_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("DragonTiger"))
-                    DT_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("Crash"))
-                    Crash_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("CarRouletteScene"))
-                    CarRoulette_Game.CarRoulette_EventManager.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("HorsRacing"))
-                    HR_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("7UpDown"))
-                    SevenUpDown_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("AndarBahar"))
-                    AB_EventSetup.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("ZooRoulette"))
-                    ZooRoulette_Game.ZooRoulette_EventManager.Inst.CLEAR_EVENT_DATA();
-                else if (SceneManager.GetActiveScene().name.Equals("Mines"))
-                    Mines_EventSetup.Inst.CLEAR_EVENT_DATA();
-
             }
         }
     }
@@ -357,62 +337,5 @@ public class SocketHandler : MonoBehaviour
         AppPause = true;
         socket.sid = "";
         socket.Close();
-
-        if (SceneManager.GetActiveScene().name.Equals("Roulette"))
-            Roullate_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("DragonTiger"))
-            DT_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("CarRouletteScene"))
-            CarRoulette_Game.CarRoulette_EventManager.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("Crash"))
-            Crash_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("HorsRacing"))
-            HR_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("7UpDown"))
-            SevenUpDown_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("AndarBahar"))
-            AB_EventSetup.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("ZooRoulette"))
-            ZooRoulette_Game.ZooRoulette_EventManager.Inst.CLEAR_EVENT_DATA();
-        else if (SceneManager.GetActiveScene().name.Equals("Mines"))
-            Mines_EventSetup.Inst.CLEAR_EVENT_DATA();
     }
-    //public void App_RLR()
-    //{
-    //    AppPause = false;
-    //    if (PlayerPrefs.HasKey("Last_Login_User") && PlayerPrefs.GetString("Last_Login_User") != "null")
-    //    {
-    //        if (PlayerPrefs.GetString("Last_Login_User") == "guest")
-    //        {
-    //            PreeLoader.Inst.Show();
-    //            SendData(SocketEventManager.Inst.PLAY_AS_GUEST());
-    //        }
-    //        if (PlayerPrefs.GetString("Last_Login_User") == "mobile")
-    //        {
-    //            PreeLoader.Inst.Show();
-    //            SendData(SocketEventManager.Inst.PLAY_AS_MOBILE_NUMBER(PlayerPrefs.GetString("mobile"), "", ""));
-    //        }
-    //    }
-    //    else
-    //    {
-    //        SceneManager.LoadSceneAsync("Login");
-    //    }
-    //}
-
-    //if (SceneManager.GetActiveScene().name.Equals("Roullate"))
-    //    {
-    //        PreeLoader.Inst.Show();
-    //        //UB_EvenetSystem.Inst.BET_SYSTEM_CLEAR();
-    //        //UB_EvenetSystem.Inst.EVENT_SYSTEM_CLEAR();
-    //        SocketHandler.Inst.SendData(SocketEventManager.Inst.ROULETTE_GAME_INFO());
-    //        //SocketHandler.Inst.socket.sid = "";
-    //        //SocketHandler.Inst.socket.Close();                
-    //    }
-    //    else if (SceneManager.GetActiveScene().name.Equals("DragonTiger"))
-    //    {
-    //        PreeLoader.Inst.Show();
-    //        //UB_EvenetSystem.Inst.BET_SYSTEM_CLEAR();
-    //        //UB_EvenetSystem.Inst.EVENT_SYSTEM_CLEAR();
-    //        SocketHandler.Inst.SendData(SocketEventManager.Inst.DRAGON_TIGER_GAME_INFO());
-    //    }
 }

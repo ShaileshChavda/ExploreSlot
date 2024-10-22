@@ -1,0 +1,68 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Standard Assets/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+[Ss]erverData/
+[Aa]ssets/FacebookSDK/
+[Aa]ssets/Plugins/
+[Aa]ssets/Plugins*
+[Aa]ssets/ExternalDependencyManager/
+[Ee]ditor Default Resources/
+[Aa]ssets/AddressableAssetsData/
+[Aa]ssets/StreamingAssets/
+Assets/StreamingAssets/build_info
+[Uu]serSettings/
+ProjectSettings/ProjectSettings.asset
+[Ss]erverData/
+[Aa]ssets/00_Casino_Project/Dashboard/Shaders/Shine/
+[Aa]ssets/GeneratedLocalRepo*
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.apk
+*.aar
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+*.vs
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+maggots-fight/Library/ArtifactDB
+maggots-fight/Library/ArtifactDB
+maggots-fight/Library/ArtifactDB
+*.log
+TicketSupport/Assets/StreamingAssets/build_info
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.Android.cs
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.Android.cs.meta
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.cs
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.cs.meta
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.iOS.cs
+Casino-All-In-One-Kanraj/Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/GameServices/DataTypes/ExternalAuthenticationCredentials/ExternalAuthenticationCredentials.iOS.cs.meta

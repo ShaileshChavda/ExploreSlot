@@ -1,0 +1,46 @@
+Tiger Final.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Back leg 1
+bounds:589,370,112,89
+Back_leg 2
+bounds:779,522,111,101
+rotate:90
+E1
+bounds:878,677,345,144
+offsets:22,9,383,164
+rotate:90
+E2
+bounds:2,19,364,245
+offsets:33,22,428,289
+E3
+bounds:698,635,387,178
+offsets:42,25,463,226
+rotate:90
+E4
+bounds:2,733,694,289
+offsets:55,19,764,332
+Front_leg
+bounds:368,47,215,217
+offsets:0,0,220,217
+Hard_effect
+bounds:2,266,585,227
+offsets:3,1,603,242
+Tiger
+bounds:2,495,599,236
+eye glow_l
+bounds:65,2,15,27
+offsets:3,2,19,31
+rotate:90
+eye glow_r
+bounds:603,636,95,74
+offsets:3,2,100,78
+rotate:90
+front leg 2
+bounds:603,461,172,174
+offsets:6,0,178,178
+rotate:90
+glow1
+bounds:2,3,61,14
+offsets:1,1,63,15

@@ -12,6 +12,7 @@
 [Ss]erverData/
 [Aa]ssets/FacebookSDK/
 [Aa]ssets/Plugins/
+[Aa]ssets/Firebase*
 [Aa]ssets/Plugins*
 [Aa]ssets/ExternalDependencyManager/
 [Ee]ditor Default Resources/

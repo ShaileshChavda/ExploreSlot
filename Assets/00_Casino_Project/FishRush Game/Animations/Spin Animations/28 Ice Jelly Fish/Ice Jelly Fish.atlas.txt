@@ -1,0 +1,42 @@
+Ice Jelly Fish.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.92
+Layer 7
+bounds:1306,2,275,407
+offsets:5,5,285,418
+rotate:90
+Layer 8
+bounds:1306,279,425,304
+offsets:5,5,437,315
+Layer 8  copy
+bounds:1037,186,440,267
+offsets:6,5,452,278
+rotate:90
+Layer 8  copy 2
+bounds:1774,1591,440,267
+offsets:6,5,452,278
+rotate:90
+Layer 8  copy 3
+bounds:731,176,425,304
+offsets:7,4,437,314
+rotate:90
+body
+bounds:950,1371,822,660
+offsets:5,5,832,670
+frozen
+bounds:2,603,946,1428
+tentecle
+bounds:2,182,419,727
+offsets:6,6,430,739
+rotate:90
+tentecle 1
+bounds:1338,585,217,784
+offsets:6,6,228,796
+tentecle 3
+bounds:1557,585,217,784
+offsets:5,6,228,796
+tentecle 4
+bounds:950,628,386,741
+offsets:5,6,397,753

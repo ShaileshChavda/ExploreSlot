@@ -1,0 +1,16 @@
+Crystal.png
+size:1956,1956
+filter:Linear,Linear
+pma:true
+Crystal_Frame
+bounds:2,1112,1151,841
+offsets:1,1,1153,843
+Green Crystal
+bounds:1087,176,802,715
+offsets:1,2,804,718
+Green Crystal Glow
+bounds:1154,893,1060,799
+rotate:90
+Green Crystal_bg
+bounds:2,318,1083,792
+offsets:1,1,1085,794

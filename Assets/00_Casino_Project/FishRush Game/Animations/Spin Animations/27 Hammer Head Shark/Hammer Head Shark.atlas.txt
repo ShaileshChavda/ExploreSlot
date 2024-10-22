@@ -1,0 +1,20 @@
+Hammer Head Shark.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+body
+bounds:2,662,1409,658
+fin 1
+bounds:1413,1211,109,75
+rotate:90
+fin 4
+bounds:1413,1211,109,75
+rotate:90
+fin 2
+bounds:1413,1100,109,75
+rotate:90
+fin 3
+bounds:1413,1100,109,75
+rotate:90
+frozen
+bounds:2,2,1409,658

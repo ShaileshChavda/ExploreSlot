@@ -1,0 +1,11 @@
+Sword Fish.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Fin
+bounds:2,1166,226,304
+rotate:90
+body
+bounds:2,795,1962,369
+frozen
+bounds:2,2,1962,791

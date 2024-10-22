@@ -1,0 +1,21 @@
+Golden Shark.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Fin
+bounds:405,1488,324,433
+rotate:90
+body
+bounds:2,910,576,1814
+rotate:90
+frozen
+bounds:2,2,906,1814
+rotate:90
+left small fin
+bounds:2,1645,167,200
+offsets:6,7,179,214
+rotate:90
+right small fin
+bounds:204,1645,167,199
+offsets:6,8,179,214
+rotate:90

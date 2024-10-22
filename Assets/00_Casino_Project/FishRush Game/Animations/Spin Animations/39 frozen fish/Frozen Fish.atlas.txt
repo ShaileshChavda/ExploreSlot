@@ -1,0 +1,11 @@
+Frozen Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.95
+body
+bounds:2,2,854,426
+fin
+bounds:858,720,138,140
+frozen
+bounds:2,430,854,430

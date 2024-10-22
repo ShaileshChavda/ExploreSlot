@@ -1,0 +1,184 @@
+{
+"skeleton": {
+	"hash": "sGm8tlFZSvs",
+	"spine": "4.1.24",
+	"x": -510.54,
+	"y": 12.96,
+	"width": 1074.71,
+	"height": 780.02,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 0.82, "y": 25.46 },
+	{ "name": "Jackport Chest", "parent": "bone", "x": -18.57, "y": 202.4 },
+	{ "name": "Coin_bag_effect", "parent": "Jackport Chest", "x": -0.29, "y": 80.65 },
+	{ "name": "Jackpot_text", "parent": "bone", "x": 13.68, "y": 94.56 }
+],
+"slots": [
+	{ "name": "Chest_Border", "bone": "bone", "attachment": "Chest_Border" },
+	{ "name": "Jackport_bg", "bone": "bone", "attachment": "Jackport_bg" },
+	{ "name": "Jackport Chest Glow", "bone": "Coin_bag_effect", "attachment": "Jackport Chest Glow" },
+	{ "name": "Jackport_frame_shadow", "bone": "bone", "attachment": "Jackport_frame_shadow" },
+	{ "name": "Jackport Chest", "bone": "Jackport Chest", "attachment": "Jackport Chest" },
+	{ "name": "Jackport_frame", "bone": "bone", "attachment": "Jackport_frame" },
+	{ "name": "Jackpot_text", "bone": "Jackpot_text", "attachment": "Jackpot_text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Chest_Border": {
+				"Chest_Border": {
+					"type": "clipping",
+					"end": "Chest_Border",
+					"vertexCount": 4,
+					"vertices": [ -511.34, 767.48, -511.36, -12.5, 563.35, -12.5, 562.97, 767.52 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"Jackport Chest": {
+				"Jackport Chest": { "x": 35.44, "y": 161.05, "width": 990, "height": 770 }
+			},
+			"Jackport Chest Glow": {
+				"Jackport Chest Glow": { "x": 39.23, "y": 95.9, "width": 1017, "height": 739 }
+			},
+			"Jackport_bg": {
+				"Jackport_bg": { "x": 23.37, "y": 374.45, "width": 1015, "height": 744 }
+			},
+			"Jackport_frame": {
+				"Jackport_frame": { "x": 26.37, "y": 377.45, "width": 1079, "height": 782 }
+			},
+			"Jackport_frame_shadow": {
+				"Jackport_frame_shadow": { "x": 20.37, "y": 378.95, "width": 1017, "height": 739 }
+			},
+			"Jackpot_text": {
+				"Jackpot_text": { "x": 11.19, "y": 21.89, "width": 896, "height": 238 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Jackport Chest Glow": {
+				"rgba": [
+					{
+						"color": "ffffffff",
+						"curve": [ 0.078, 1, 0.156, 1, 0.078, 1, 0.156, 1, 0.078, 1, 0.156, 1, 0.078, 1, 0.156, 0 ]
+					},
+					{
+						"time": 0.2333,
+						"color": "ffffff00",
+						"curve": [ 0.333, 1, 0.433, 1, 0.333, 1, 0.433, 1, 0.333, 1, 0.433, 1, 0.333, 0, 0.433, 0.52 ]
+					},
+					{
+						"time": 0.5333,
+						"color": "ffffff85",
+						"curve": [ 0.678, 1, 0.822, 1, 0.678, 1, 0.822, 1, 0.678, 1, 0.822, 1, 0.678, 0.52, 0.822, 0 ]
+					},
+					{
+						"time": 0.9667,
+						"color": "ffffff00",
+						"curve": [ 1.089, 1, 1.211, 1, 1.089, 1, 1.211, 1, 1.089, 1, 1.211, 1, 1.089, 0, 1.211, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Jackport Chest": {
+				"scale": [
+					{
+						"curve": [ 0.078, 1, 0.156, 0.88, 0.078, 1, 0.156, 0.88 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 0.88,
+						"y": 0.88,
+						"curve": [ 0.333, 0.88, 0.433, 0.988, 0.333, 0.88, 0.433, 0.988 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 0.988,
+						"y": 0.988,
+						"curve": [ 0.633, 0.988, 0.756, 0.88, 0.633, 0.988, 0.756, 0.88 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 0.88,
+						"y": 0.88,
+						"curve": [ 0.933, 0.88, 1.011, 0.988, 0.933, 0.88, 1.011, 0.988 ]
+					},
+					{
+						"time": 1.1,
+						"x": 0.988,
+						"y": 0.988,
+						"curve": [ 1.178, 0.988, 1.256, 1, 1.178, 0.988, 1.256, 1 ]
+					},
+					{ "time": 1.3333 }
+				]
+			},
+			"Coin_bag_effect": {
+				"scale": [
+					{
+						"curve": [ 0.089, 1, 0.178, 1.098, 0.089, 1, 0.178, 1.098 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 1.134,
+						"y": 1.134,
+						"curve": [ 0.367, 1.174, 0.467, 1.481, 0.367, 1.174, 0.467, 1.481 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.481,
+						"y": 1.481,
+						"curve": [ 0.7, 1.481, 0.833, 1.089, 0.7, 1.481, 0.833, 1.089 ]
+					},
+					{
+						"time": 0.9667,
+						"x": 1.049,
+						"y": 1.049,
+						"curve": [ 1.089, 1.012, 1.211, 1, 1.089, 1.012, 1.211, 1 ]
+					},
+					{ "time": 1.3333 }
+				]
+			},
+			"Jackpot_text": {
+				"scale": [
+					{
+						"time": 0.2333,
+						"curve": [ 0.277, 1, 0.354, 0.81, 0.277, 1, 0.354, 0.81 ]
+					},
+					{
+						"time": 0.4333,
+						"x": 0.81,
+						"y": 0.81,
+						"curve": [ 0.536, 0.81, 0.644, 1, 0.536, 0.81, 0.644, 1 ]
+					},
+					{
+						"time": 0.7,
+						"curve": [ 0.756, 1, 0.81, 0.486, 0.756, 1, 0.81, 0.153 ]
+					},
+					{
+						"time": 0.8667,
+						"x": 0.486,
+						"y": -0.295,
+						"curve": [ 0.931, 0.485, 1.002, 0.998, 0.931, -0.806, 1.002, -0.998 ]
+					},
+					{ "time": 1.0667, "x": 0.998, "y": -0.998 }
+				],
+				"shear": [
+					{
+						"time": 0.7,
+						"curve": [ 0.82, 0, 0.946, 0, 0.82, 0, 0.946, -179.72 ]
+					},
+					{ "time": 1.0667, "y": -179.72 }
+				]
+			}
+		}
+	}
+}
+}

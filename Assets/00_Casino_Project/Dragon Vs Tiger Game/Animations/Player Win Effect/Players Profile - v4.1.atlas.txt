@@ -1,0 +1,13 @@
+Players Profile - v4.1.png
+size:224,224
+filter:Linear,Linear
+pma:true
+Glow_Circle_02
+bounds:2,106,116,116
+Rotation_circle
+bounds:2,2,102,128
+offsets:23,0,125,128
+rotate:90
+tx_star13
+bounds:120,114,84,108
+offsets:10,4,98,116

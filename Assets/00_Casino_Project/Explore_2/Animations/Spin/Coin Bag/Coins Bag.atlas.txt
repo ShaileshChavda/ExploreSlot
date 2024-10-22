@@ -1,0 +1,9 @@
+Coins Bag.png
+size:1460,1460
+filter:Linear,Linear
+pma:true
+Coin_bag_effect
+bounds:2,633,835,822
+offsets:9,18,860,860
+Coins Bags
+bounds:839,838,616,617

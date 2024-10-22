@@ -1,0 +1,66 @@
+Dragon New.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:206,192,291,171
+rotate:90
+Layer 1 copy
+bounds:407,300,341,143
+rotate:90
+Layer 1 copy 10
+bounds:2,437,369,202
+rotate:90
+Layer 1 copy 14
+bounds:2,808,459,206
+Layer 1 copy 2
+bounds:552,540,197,101
+Layer 1 copy 8
+bounds:379,180,198,118
+Layer 1 copy 9
+bounds:2,179,256,127
+rotate:90
+body copy
+bounds:463,643,371,289
+rotate:90
+eye glow
+bounds:146,54,84,45
+offsets:2,2,87,48
+rotate:90
+eye glow copy
+bounds:407,750,56,49
+offsets:1,1,58,51
+rotate:90
+hand back
+bounds:2,6,58,59
+rotate:90
+hand front 1
+bounds:2,66,111,109
+rotate:90
+hand front 2
+bounds:279,94,89,96
+head
+bounds:206,485,199,321
+mustache 1
+bounds:113,10,128,31
+rotate:90
+mustache 2
+bounds:63,2,62,39
+rotate:90
+t1
+bounds:193,35,155,84
+offsets:2,2,158,87
+rotate:90
+t2
+bounds:552,492,46,124
+offsets:1,1,49,126
+rotate:90
+t3
+bounds:407,676,47,72
+offsets:1,2,48,76
+t4
+bounds:131,140,60,109
+offsets:1,1,62,112
+t5
+bounds:131,251,64,184
+offsets:1,1,65,186

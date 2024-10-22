@@ -1,0 +1,10 @@
+Tools.png
+size:892,892
+filter:Linear,Linear
+pma:true
+E1 (37)
+bounds:2,524,512,364
+offsets:0,8,512,380
+Pickaxe - trikam tool
+bounds:2,2,622,683
+rotate:90

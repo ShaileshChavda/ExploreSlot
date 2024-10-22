@@ -1,0 +1,79 @@
+Crow.png
+size:4000,4000
+filter:Linear,Linear
+pma:true
+Crow
+bounds:2261,3219,752,877
+offsets:53,0,805,877
+rotate:90
+Crow FIre Pink/Crow FIre-1
+bounds:304,2526,300,300
+Crow FIre Pink/Crow FIre-10
+bounds:2,2526,300,300
+Crow FIre Pink/Crow FIre-11
+bounds:1512,2560,300,300
+Crow FIre Pink/Crow FIre-12
+bounds:1210,2560,300,300
+Crow FIre Pink/Crow FIre-13
+bounds:908,2560,300,300
+Crow FIre Pink/Crow FIre-14
+bounds:2665,2565,300,300
+Crow FIre Pink/Crow FIre-15
+bounds:3469,2580,300,300
+Crow FIre Pink/Crow FIre-16
+bounds:3167,2587,300,300
+Crow FIre Pink/Crow FIre-17
+bounds:2363,2616,300,300
+Crow FIre Pink/Crow FIre-18
+bounds:2061,2625,300,300
+Crow FIre Pink/Crow FIre-19
+bounds:606,2828,300,300
+Crow FIre Pink/Crow FIre-2
+bounds:304,2828,300,300
+Crow FIre Pink/Crow FIre-20
+bounds:2,2828,300,300
+Crow FIre Pink/Crow FIre-21
+bounds:1759,2862,300,300
+Crow FIre Pink/Crow FIre-22
+bounds:1457,2862,300,300
+Crow FIre Pink/Crow FIre-23
+bounds:1155,2862,300,300
+Crow FIre Pink/Crow FIre-24
+bounds:2865,2867,300,300
+Crow FIre Pink/Crow FIre-3
+bounds:3557,2882,300,300
+Crow FIre Pink/Crow FIre-4
+bounds:3255,2889,300,300
+Crow FIre Pink/Crow FIre-5
+bounds:2563,2918,300,300
+Crow FIre Pink/Crow FIre-6
+bounds:2261,2927,300,300
+Crow FIre Pink/Crow FIre-7
+bounds:3557,3184,300,300
+Crow FIre Pink/Crow FIre-8
+bounds:3442,3644,300,300
+Crow FIre Pink/Crow FIre-9
+bounds:3140,3645,300,300
+Crow_Frame
+bounds:2,3130,1151,841
+offsets:1,1,1153,843
+Crow_bg
+bounds:1155,3164,1104,807
+offsets:1,1,1106,809
+Eye_close1
+bounds:3750,2503,273,221
+offsets:0,22,293,248
+rotate:90
+Eye_close2
+bounds:606,2578,281,248
+offsets:5,11,307,269
+Feather
+bounds:3138,3169,474,417
+offsets:0,11,476,428
+rotate:270
+Peak_Lower
+bounds:2916,2457,408,223
+offsets:17,1,473,241
+rotate:270
+Peak_Upper
+bounds:1814,2460,409,291

@@ -1,0 +1,11 @@
+Seal.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,745,298
+fin
+bounds:749,516,202,144
+rotate:90
+frozen
+bounds:2,302,745,416

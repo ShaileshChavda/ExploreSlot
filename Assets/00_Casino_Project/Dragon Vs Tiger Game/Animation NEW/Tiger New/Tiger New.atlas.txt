@@ -1,0 +1,46 @@
+Tiger New.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Back leg 1
+bounds:2,8,114,80
+rotate:90
+Back leg 2
+bounds:84,11,111,101
+rotate:90
+Layer 1 copy 3
+bounds:761,558,461,224
+rotate:90
+Layer 1 copy 4
+bounds:2,124,432,275
+rotate:90
+Layer 1 copy 5
+bounds:695,12,381,162
+rotate:90
+Layer 1 copy 6
+bounds:279,33,339,141
+rotate:90
+Layer 1 copy 7
+bounds:695,395,292,161
+Layer 3 copy 3
+bounds:2,597,757,422
+body
+bounds:279,374,414,221
+eye glow
+bounds:187,18,104,60
+offsets:2,1,107,62
+rotate:90
+front leg 1
+bounds:422,185,204,187
+front leg 2
+bounds:422,2,173,181
+glow1
+bounds:987,958,61,14
+offsets:1,1,63,15
+rotate:90
+head
+bounds:859,40,157,186
+offsets:3,1,160,187
+tail
+bounds:859,228,165,163
+rotate:90

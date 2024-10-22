@@ -1,0 +1,395 @@
+Tiger - v4.1.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00007
+bounds:2,2,887,975
+offsets:0,0,975,975
+
+Tiger - v4.1_2.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00029
+bounds:2,2,780,975
+offsets:74,0,975,975
+
+Tiger - v4.1_3.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00006
+bounds:2,2,887,975
+offsets:0,0,975,975
+
+Tiger - v4.1_4.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00030
+bounds:2,2,782,975
+offsets:74,0,975,975
+
+Tiger - v4.1_5.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00005
+bounds:2,2,887,975
+offsets:0,0,975,975
+
+Tiger - v4.1_6.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00031
+bounds:2,2,784,975
+offsets:75,0,975,975
+
+Tiger - v4.1_7.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00008
+bounds:2,2,886,975
+offsets:0,0,975,975
+
+Tiger - v4.1_8.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00028
+bounds:2,2,786,975
+offsets:71,0,975,975
+
+Tiger - v4.1_9.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00009
+bounds:2,2,879,975
+offsets:0,0,975,975
+
+Tiger - v4.1_10.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00032
+bounds:2,2,787,975
+offsets:77,0,975,975
+
+Tiger - v4.1_11.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00016
+bounds:2,2,869,975
+offsets:1,0,975,975
+
+Tiger - v4.1_12.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00033
+bounds:2,2,790,975
+offsets:79,0,975,975
+
+Tiger - v4.1_13.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00015
+bounds:2,2,868,975
+offsets:0,0,975,975
+
+Tiger - v4.1_14.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00034
+bounds:2,2,796,975
+offsets:79,0,975,975
+
+Tiger - v4.1_15.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00010
+bounds:2,2,867,975
+offsets:0,0,975,975
+
+Tiger - v4.1_16.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00027
+bounds:2,2,797,975
+offsets:64,0,975,975
+
+Tiger - v4.1_17.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00014
+bounds:2,2,866,975
+offsets:0,0,975,975
+
+Tiger - v4.1_18.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00042
+bounds:2,2,797,975
+offsets:88,0,975,975
+
+Tiger - v4.1_19.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00013
+bounds:2,2,864,975
+offsets:0,0,975,975
+
+Tiger - v4.1_20.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00043
+bounds:2,2,797,975
+offsets:87,0,975,975
+
+Tiger - v4.1_21.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00017
+bounds:2,2,863,975
+offsets:11,0,975,975
+
+Tiger - v4.1_22.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00035
+bounds:2,2,799,975
+offsets:80,0,975,975
+
+Tiger - v4.1_23.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00012
+bounds:2,2,863,975
+offsets:0,0,975,975
+
+Tiger - v4.1_24.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00036
+bounds:2,2,799,975
+offsets:82,0,975,975
+
+Tiger - v4.1_25.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00011
+bounds:2,2,863,975
+offsets:0,0,975,975
+
+Tiger - v4.1_26.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00041
+bounds:2,2,800,975
+offsets:86,0,975,975
+
+Tiger - v4.1_27.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00004
+bounds:2,2,861,975
+offsets:28,0,975,975
+
+Tiger - v4.1_28.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00037
+bounds:2,2,801,975
+offsets:81,0,975,975
+
+Tiger - v4.1_29.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00018
+bounds:2,2,859,975
+offsets:17,0,975,975
+
+Tiger - v4.1_30.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00040
+bounds:2,2,801,975
+offsets:85,0,975,975
+
+Tiger - v4.1_31.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00019
+bounds:2,2,857,975
+offsets:21,0,975,975
+
+Tiger - v4.1_32.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00038
+bounds:2,2,802,975
+offsets:80,0,975,975
+
+Tiger - v4.1_33.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00020
+bounds:2,2,836,975
+offsets:36,0,975,975
+
+Tiger - v4.1_34.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00039
+bounds:2,2,803,975
+offsets:82,0,975,975
+
+Tiger - v4.1_35.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00024
+bounds:2,2,830,975
+offsets:46,0,975,975
+
+Tiger - v4.1_36.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00002
+bounds:2,2,809,975
+offsets:82,0,975,975
+
+Tiger - v4.1_37.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00025
+bounds:2,2,827,975
+offsets:47,0,975,975
+
+Tiger - v4.1_38.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00003
+bounds:2,2,811,975
+offsets:79,0,975,975
+
+Tiger - v4.1_39.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00023
+bounds:2,2,825,975
+offsets:47,0,975,975
+
+Tiger - v4.1_40.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00001
+bounds:2,2,813,975
+offsets:86,0,975,975
+
+Tiger - v4.1_41.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00022
+bounds:2,2,821,975
+offsets:46,0,975,975
+
+Tiger - v4.1_42.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00000
+bounds:2,2,814,975
+offsets:88,0,975,975
+
+Tiger - v4.1_43.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00021
+bounds:2,2,819,975
+offsets:46,0,975,975
+
+Tiger - v4.1_44.png
+size:980,980
+filter:Linear,Linear
+pma:true
+scale:0.75
+T1_00026
+bounds:2,2,815,975
+offsets:54,0,975,975

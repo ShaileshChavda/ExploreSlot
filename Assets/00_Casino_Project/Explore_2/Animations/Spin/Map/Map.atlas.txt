@@ -1,0 +1,17 @@
+Map.png
+size:1572,1572
+filter:Linear,Linear
+pma:true
+Light
+bounds:808,816,754,762
+offsets:19,20,792,794
+rotate:90
+Magnify
+bounds:622,497,274,317
+offsets:1,1,276,319
+Map
+bounds:2,320,618,499
+offsets:1,1,620,501
+light_star
+bounds:2,821,804,749
+offsets:36,36,843,790

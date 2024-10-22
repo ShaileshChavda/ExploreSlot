@@ -1,0 +1,23 @@
+Octopus.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.95
+back tenticle 1
+bounds:2,105,101,389
+rotate:90
+back tenticle 2
+bounds:2,2,101,389
+rotate:90
+frozen
+bounds:2,208,486,792
+head
+bounds:745,88,277,366
+tenticels
+bounds:490,712,288,503
+rotate:90
+tenticle 2
+bounds:490,456,254,418
+rotate:90
+tenticle 3
+bounds:490,36,253,418

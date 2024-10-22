@@ -1,0 +1,40 @@
+Butterfly Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+body
+bounds:411,635,362,136
+rotate:90
+bottom fin 0
+bounds:261,2,96,282
+offsets:1,0,97,282
+rotate:90
+bottom fin 1
+bounds:788,368,94,306
+bottom fin 2
+bounds:411,460,173,338
+offsets:0,0,173,339
+rotate:90
+bottom fin 3
+bounds:502,249,209,284
+rotate:90
+bottom fin 4
+bounds:2,80,257,236
+offsets:0,0,257,237
+bottom fin 5
+bounds:549,671,108,176
+rotate:90
+frozen
+bounds:2,318,407,679
+top fin 2
+bounds:545,79,168,311
+offsets:1,0,169,311
+rotate:90
+top fin 3
+bounds:261,100,216,239
+rotate:90
+top fin 4
+bounds:549,781,232,216
+top fin 5
+bounds:727,676,103,160
+rotate:90

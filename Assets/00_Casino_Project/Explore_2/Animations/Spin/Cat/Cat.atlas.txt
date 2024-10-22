@@ -1,0 +1,93 @@
+Cat.png
+size:3972,3972
+filter:Linear,Linear
+pma:true
+Cat
+bounds:2261,3150,819,962
+offsets:0,151,819,1113
+rotate:90
+Cat Fire/Cat Fire_00000
+bounds:705,1995,350,300
+rotate:90
+Cat Fire/Cat Fire_00001
+bounds:2064,2002,350,300
+Cat Fire/Cat Fire_00002
+bounds:2466,2045,350,300
+Cat Fire/Cat Fire_00003
+bounds:3619,2167,350,300
+Cat Fire/Cat Fire_00004
+bounds:354,2172,350,300
+Cat Fire/Cat Fire_00005
+bounds:3267,2217,350,300
+Cat Fire/Cat Fire_00006
+bounds:2,2222,350,300
+Cat Fire/Cat Fire_00007
+bounds:1712,2256,350,300
+Cat Fire/Cat Fire_00008
+bounds:1360,2256,350,300
+Cat Fire/Cat Fire_00009
+bounds:1008,2256,350,300
+Cat Fire/Cat Fire_00010
+bounds:2915,2267,350,300
+Cat Fire/Cat Fire_00011
+bounds:2114,2304,350,300
+Cat Fire/Cat Fire_00012
+bounds:2563,2347,350,300
+Cat Fire/Cat Fire_00013
+bounds:3669,2469,350,300
+rotate:90
+Cat Fire/Cat Fire_00014
+bounds:706,2474,350,300
+rotate:90
+Cat Fire/Cat Fire_00015
+bounds:3317,2519,350,300
+Cat Fire/Cat Fire_00016
+bounds:354,2524,350,300
+Cat Fire/Cat Fire_00017
+bounds:2,2524,350,300
+Cat Fire/Cat Fire_00018
+bounds:1762,2558,350,300
+Cat Fire/Cat Fire_00019
+bounds:1410,2558,350,300
+Cat Fire/Cat Fire_00020
+bounds:1058,2558,350,300
+Cat Fire/Cat Fire_00021
+bounds:2965,2569,350,300
+Cat Fire/Cat Fire_00022
+bounds:2211,2606,350,300
+Cat Fire/Cat Fire_00023
+bounds:2613,2649,350,300
+Cat Fire/Cat Fire_00024
+bounds:3576,2821,350,300
+rotate:90
+Cat Fire/Cat Fire_00025
+bounds:706,2826,350,300
+Cat Fire/Cat Fire_00026
+bounds:354,2826,350,300
+Cat Fire/Cat Fire_00027
+bounds:2,2826,350,300
+Cat Fire/Cat Fire_00028
+bounds:1859,2860,350,300
+Cat Fire/Cat Fire_00029
+bounds:1507,2860,350,300
+Cat Fire/Cat Fire_00030
+bounds:1155,2860,350,300
+Cat Fire/Cat Fire_00031
+bounds:3224,2871,350,300
+Cat Fire/Cat Fire_00032
+bounds:2261,2908,350,300
+Cat Fire/Cat Fire_00033
+bounds:2872,2951,350,300
+Cat Fire/Cat Fire_00034
+bounds:3482,3173,350,300
+rotate:90
+Cat_Frame
+bounds:2,3128,1151,841
+offsets:1,1,1153,843
+Cat_bg
+bounds:1155,3162,1104,807
+offsets:1,1,1106,809
+Free_text
+bounds:3224,3173,588,256
+offsets:2,1,591,258
+rotate:90

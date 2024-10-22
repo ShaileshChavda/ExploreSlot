@@ -1,0 +1,27 @@
+Starfish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+body
+bounds:468,517,284,441
+fin left 1
+bounds:2,2,214,364
+rotate:90
+fin left 2
+bounds:754,649,154,309
+fin right 1
+bounds:368,2,214,364
+rotate:90
+fin right 3
+bounds:734,50,154,309
+front left fin
+bounds:754,572,75,76
+rotate:90
+front right fin
+bounds:787,495,75,76
+rotate:90
+frozen
+bounds:2,218,464,740
+middle fin
+bounds:468,361,154,317
+rotate:90

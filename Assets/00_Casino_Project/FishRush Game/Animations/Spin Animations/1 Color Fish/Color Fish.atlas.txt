@@ -1,0 +1,18 @@
+Color Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Fin
+bounds:2,869,174,82
+body
+bounds:2,542,272,787
+rotate:90
+frozen
+bounds:2,2,538,787
+rotate:90
+left small fin
+bounds:178,816,135,203
+rotate:90
+right small fin
+bounds:383,816,135,203
+rotate:90

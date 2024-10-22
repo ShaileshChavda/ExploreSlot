@@ -1,0 +1,15 @@
+Clown Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.9
+Body
+bounds:545,76,452,736
+Fin
+bounds:302,4,70,75
+rotate:90
+TOP FIN1
+bounds:2,2,72,298
+rotate:90
+frozen
+bounds:2,76,541,736

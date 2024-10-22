@@ -1,0 +1,11 @@
+Coin.png
+size:1040,1040
+filter:Linear,Linear
+pma:true
+Coin
+bounds:598,389,646,437
+offsets:1,1,648,439
+rotate:90
+Coin_Effect
+bounds:2,439,594,596
+offsets:20,30,621,629

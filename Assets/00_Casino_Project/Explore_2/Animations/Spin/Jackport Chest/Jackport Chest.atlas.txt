@@ -1,0 +1,19 @@
+Jackport Chest.png
+size:2024,2024
+filter:Linear,Linear
+pma:true
+scale:0.9
+Jackport Chest
+bounds:919,2,890,680
+offsets:0,13,891,693
+Jackport Chest Glow
+bounds:2,650,915,665
+Jackport_bg
+bounds:975,1351,914,670
+Jackport_frame
+bounds:2,1317,971,704
+Jackport_frame_shadow
+bounds:975,684,915,665
+Jackpot_text
+bounds:2,435,801,213
+offsets:0,0,806,214

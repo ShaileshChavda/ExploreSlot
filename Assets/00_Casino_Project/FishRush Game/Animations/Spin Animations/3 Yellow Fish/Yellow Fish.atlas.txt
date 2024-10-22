@@ -1,0 +1,12 @@
+Yellow Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Fin
+bounds:2,2,36,60
+body
+bounds:314,64,302,642
+offsets:0,0,321,642
+frozen
+bounds:2,64,310,642
+offsets:0,0,321,642

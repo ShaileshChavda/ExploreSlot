@@ -1,0 +1,40 @@
+Girl.png
+size:512,512
+filter:Linear,Linear
+pma:true
+1hand
+bounds:1,1,172,89
+rotate:90
+1hand shadow
+bounds:1,288,209,29
+2hand
+bounds:91,1,172,75
+rotate:90
+body
+bounds:211,130,187,181
+rotate:90
+earing
+bounds:167,151,18,37
+eye 1
+bounds:179,207,29,17
+rotate:90
+eye 2
+bounds:179,189,21,17
+eye close1
+bounds:179,259,28,21
+rotate:90
+eye close2
+bounds:179,237,21,18
+rotate:90
+face
+bounds:104,189,74,98
+hair1
+bounds:1,174,113,102
+rotate:90
+hair2
+bounds:167,69,60,157
+rotate:90
+hair3
+bounds:325,2,72,127
+star earing
+bounds:167,131,22,19

@@ -1,0 +1,12 @@
+Golden Dragon.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+body
+bounds:1927,1420,1923,372
+frozen
+bounds:2,2,1923,1790
+wing 1
+bounds:1927,507,675,911
+wing 2
+bounds:2604,507,675,911

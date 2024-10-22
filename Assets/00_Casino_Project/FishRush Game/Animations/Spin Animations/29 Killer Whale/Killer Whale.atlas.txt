@@ -1,0 +1,16 @@
+Killer Whale.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,525,274,889
+rotate:90
+Fin
+bounds:165,801,170,209
+rotate:90
+TOP FIN1
+bounds:2,949,22,161
+rotate:90
+frozen
+bounds:2,2,521,889
+rotate:90

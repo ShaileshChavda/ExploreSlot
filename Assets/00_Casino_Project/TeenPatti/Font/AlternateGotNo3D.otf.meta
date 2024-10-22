@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: befc79c8886b8214cb73753cb9c3cf6e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alternate Gothic No3 D
+  fontNames:
+  - Alternate Gothic No3 D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95b4fe57d5ed93746b53a1766bba2dd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

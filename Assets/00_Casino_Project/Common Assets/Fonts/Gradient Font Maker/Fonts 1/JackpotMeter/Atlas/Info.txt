@@ -1,0 +1,3 @@
+Font Type : Myriad Pro Bold
+
+Font Color : fde646

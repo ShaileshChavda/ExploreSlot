@@ -1,0 +1,559 @@
+Horse 6.png
+size:8192,4096
+filter:Linear,Linear
+pma:true
+1 (1)
+bounds:3662,1141,358,407
+offsets:0,0,512,512
+rotate:90
+1 (10)
+bounds:4779,2563,340,373
+offsets:0,0,512,512
+rotate:90
+1 (100)
+bounds:3303,1503,356,408
+offsets:0,0,512,512
+rotate:90
+1 (101)
+bounds:5543,2562,341,404
+offsets:0,0,512,512
+rotate:90
+1 (102)
+bounds:4375,2564,339,402
+offsets:0,0,512,512
+rotate:90
+1 (103)
+bounds:7639,2560,343,403
+offsets:0,0,512,512
+rotate:90
+1 (104)
+bounds:3922,2216,348,405
+offsets:0,0,512,512
+rotate:90
+1 (105)
+bounds:5176,1856,354,406
+offsets:0,0,512,512
+rotate:90
+1 (106)
+bounds:7356,1132,359,405
+offsets:0,0,512,512
+rotate:90
+1 (107)
+bounds:3320,778,361,405
+offsets:0,0,512,512
+rotate:90
+1 (108)
+bounds:3727,777,361,404
+offsets:0,0,512,512
+rotate:90
+1 (109)
+bounds:2073,787,360,403
+offsets:0,0,512,512
+rotate:90
+1 (11)
+bounds:2404,2222,346,362
+offsets:0,0,512,512
+rotate:90
+1 (110)
+bounds:7763,1132,359,403
+offsets:0,0,512,512
+rotate:90
+1 (111)
+bounds:4071,1140,358,402
+offsets:0,0,512,512
+rotate:90
+1 (112)
+bounds:407,1156,357,401
+offsets:0,0,512,512
+rotate:90
+1 (113)
+bounds:399,1518,355,400
+offsets:0,0,512,512
+rotate:90
+1 (114)
+bounds:3562,1861,353,399
+offsets:0,0,512,512
+rotate:90
+1 (115)
+bounds:7526,2207,351,398
+offsets:0,0,512,512
+rotate:90
+1 (116)
+bounds:4329,2214,348,396
+offsets:0,0,512,512
+rotate:90
+1 (117)
+bounds:2768,2222,346,395
+offsets:0,0,512,512
+rotate:90
+1 (118)
+bounds:1612,2224,345,394
+offsets:0,0,512,512
+rotate:90
+1 (119)
+bounds:814,2225,344,393
+offsets:0,0,512,512
+rotate:90
+1 (12)
+bounds:3562,2218,358,347
+offsets:0,0,512,512
+1 (120)
+bounds:2008,2223,345,394
+offsets:0,0,512,512
+rotate:90
+1 (121)
+bounds:3165,2219,346,395
+offsets:0,0,512,512
+rotate:90
+1 (122)
+bounds:4727,2213,348,396
+offsets:0,0,512,512
+rotate:90
+1 (123)
+bounds:5909,2210,349,397
+offsets:0,0,512,512
+rotate:90
+1 (124)
+bounds:6715,2209,350,398
+offsets:0,0,512,512
+rotate:90
+1 (125)
+bounds:2,1876,351,399
+offsets:0,0,512,512
+rotate:90
+1 (126)
+bounds:809,1871,352,400
+offsets:0,0,512,512
+rotate:90
+1 (127)
+bounds:1573,1870,352,400
+offsets:0,0,512,512
+rotate:90
+1 (128)
+bounds:1975,1869,352,401
+offsets:0,0,512,512
+rotate:90
+1 (129)
+bounds:3963,1859,353,402
+offsets:0,0,512,512
+rotate:90
+1 (13)
+bounds:5584,1854,376,354
+offsets:0,0,512,512
+1 (130)
+bounds:4367,1858,353,402
+offsets:0,0,512,512
+rotate:90
+1 (131)
+bounds:4771,1858,353,403
+offsets:0,0,512,512
+rotate:90
+1 (132)
+bounds:5962,1854,354,403
+offsets:0,0,512,512
+rotate:90
+1 (133)
+bounds:6367,1853,354,404
+offsets:0,0,512,512
+rotate:90
+1 (134)
+bounds:1693,1512,355,404
+offsets:0,0,512,512
+rotate:90
+1 (135)
+bounds:3713,1501,356,405
+offsets:0,0,512,512
+rotate:90
+1 (136)
+bounds:4120,1500,356,405
+offsets:0,0,512,512
+rotate:90
+1 (137)
+bounds:810,1156,357,406
+offsets:0,0,512,512
+rotate:90
+1 (138)
+bounds:1218,1155,357,406
+offsets:0,0,512,512
+rotate:90
+1 (139)
+bounds:1626,1153,357,406
+offsets:0,0,512,512
+rotate:90
+1 (14)
+bounds:4133,777,400,361
+offsets:0,0,512,512
+1 (140)
+bounds:4475,1140,358,407
+offsets:0,0,512,512
+rotate:90
+1 (141)
+bounds:4884,1138,358,407
+offsets:0,0,512,512
+rotate:90
+1 (15)
+bounds:7466,767,424,363
+offsets:0,0,512,512
+1 (16)
+bounds:4535,775,441,361
+offsets:0,0,512,512
+1 (17)
+bounds:404,795,443,359
+offsets:0,0,512,512
+1 (18)
+bounds:2478,786,440,360
+offsets:0,0,512,512
+1 (19)
+bounds:5363,390,428,381
+offsets:0,0,512,512
+1 (2)
+bounds:6773,1853,354,406
+offsets:0,0,512,512
+rotate:90
+1 (20)
+bounds:1217,29,409,395
+offsets:0,0,512,512
+1 (21)
+bounds:7037,379,387,405
+offsets:0,0,512,512
+rotate:90
+1 (22)
+bounds:5820,771,362,419
+offsets:0,0,512,512
+rotate:90
+1 (23)
+bounds:5949,2561,342,432
+offsets:0,0,512,512
+rotate:90
+1 (24)
+bounds:1188,2571,332,437
+offsets:0,0,512,512
+rotate:90
+1 (25)
+bounds:2,2229,343,423
+offsets:0,0,512,512
+rotate:90
+1 (26)
+bounds:2,430,363,416
+offsets:0,0,512,512
+rotate:90
+1 (27)
+bounds:6212,387,382,410
+offsets:0,0,512,512
+rotate:90
+1 (28)
+bounds:7444,378,387,415
+offsets:0,0,512,512
+rotate:90
+1 (29)
+bounds:5793,388,381,417
+offsets:0,0,512,512
+rotate:90
+1 (3)
+bounds:6308,2210,349,405
+offsets:0,0,512,512
+rotate:90
+1 (30)
+bounds:824,428,364,414
+offsets:0,0,512,512
+rotate:90
+1 (31)
+bounds:7115,2209,350,409
+offsets:0,0,512,512
+rotate:90
+1 (32)
+bounds:5125,2213,348,407
+offsets:0,0,512,512
+rotate:90
+1 (33)
+bounds:2378,1868,352,408
+offsets:0,0,512,512
+rotate:90
+1 (34)
+bounds:2034,1152,357,409
+offsets:0,0,512,512
+rotate:90
+1 (35)
+bounds:6241,771,362,410
+offsets:0,0,512,512
+rotate:90
+1 (36)
+bounds:2463,417,367,410
+offsets:0,0,512,512
+rotate:90
+1 (37)
+bounds:3285,408,368,409
+offsets:0,0,512,512
+rotate:90
+1 (38)
+bounds:3696,407,368,409
+offsets:0,0,512,512
+rotate:90
+1 (39)
+bounds:2875,413,367,408
+offsets:0,0,512,512
+rotate:90
+1 (4)
+bounds:6383,2561,342,403
+offsets:0,0,512,512
+rotate:90
+1 (40)
+bounds:2054,419,366,407
+offsets:0,0,512,512
+rotate:90
+1 (41)
+bounds:1646,424,365,406
+offsets:0,0,512,512
+rotate:90
+1 (42)
+bounds:1240,426,364,404
+offsets:0,0,512,512
+rotate:90
+1 (43)
+bounds:420,430,363,402
+offsets:0,0,512,512
+rotate:90
+1 (44)
+bounds:6653,769,362,400
+offsets:0,0,512,512
+rotate:90
+1 (45)
+bounds:2920,782,360,398
+offsets:0,0,512,512
+rotate:90
+1 (46)
+bounds:5293,1136,358,396
+offsets:0,0,512,512
+rotate:90
+1 (47)
+bounds:4527,1500,356,395
+offsets:0,0,512,512
+rotate:90
+1 (48)
+bounds:7181,1851,354,394
+offsets:0,0,512,512
+rotate:90
+1 (49)
+bounds:3167,1864,353,393
+offsets:0,0,512,512
+rotate:90
+1 (5)
+bounds:2062,2570,333,396
+offsets:0,0,512,512
+rotate:90
+1 (50)
+bounds:7577,1851,354,394
+offsets:0,0,512,512
+rotate:90
+1 (51)
+bounds:2,1520,354,395
+offsets:0,0,512,512
+rotate:90
+1 (52)
+bounds:2099,1511,355,396
+offsets:0,0,512,512
+rotate:90
+1 (53)
+bounds:2497,1508,355,397
+offsets:0,0,512,512
+rotate:90
+1 (54)
+bounds:4924,1498,356,398
+offsets:0,0,512,512
+rotate:90
+1 (55)
+bounds:5324,1496,356,399
+offsets:0,0,512,512
+rotate:90
+1 (56)
+bounds:5725,1496,356,400
+offsets:0,0,512,512
+rotate:90
+1 (57)
+bounds:6127,1495,356,400
+offsets:0,0,512,512
+rotate:90
+1 (58)
+bounds:6529,1495,356,401
+offsets:0,0,512,512
+rotate:90
+1 (59)
+bounds:6932,1493,356,401
+offsets:0,0,512,512
+rotate:90
+1 (6)
+bounds:56,2574,329,385
+offsets:0,0,512,512
+rotate:90
+1 (60)
+bounds:7335,1493,356,402
+offsets:0,0,512,512
+rotate:90
+1 (61)
+bounds:7739,1493,356,402
+offsets:0,0,512,512
+rotate:90
+1 (62)
+bounds:2,1160,356,403
+offsets:0,0,512,512
+rotate:90
+1 (63)
+bounds:2445,1149,357,403
+offsets:0,0,512,512
+rotate:90
+1 (64)
+bounds:2850,1148,357,404
+offsets:0,0,512,512
+rotate:90
+1 (65)
+bounds:3256,1144,357,404
+offsets:0,0,512,512
+rotate:90
+1 (66)
+bounds:5691,1136,358,405
+offsets:0,0,512,512
+rotate:90
+1 (67)
+bounds:6098,1135,358,405
+offsets:0,0,512,512
+rotate:90
+1 (68)
+bounds:6505,1135,358,405
+offsets:0,0,512,512
+rotate:90
+1 (69)
+bounds:849,794,359,406
+offsets:0,0,512,512
+rotate:90
+1 (7)
+bounds:443,2574,329,372
+offsets:0,0,512,512
+rotate:90
+1 (70)
+bounds:1257,792,359,406
+offsets:0,0,512,512
+rotate:90
+1 (71)
+bounds:1665,791,359,406
+offsets:0,0,512,512
+rotate:90
+1 (72)
+bounds:2896,1507,355,405
+offsets:0,0,512,512
+rotate:90
+1 (73)
+bounds:403,1875,351,404
+offsets:0,0,512,512
+rotate:90
+1 (74)
+bounds:1209,2225,344,401
+offsets:0,0,512,512
+rotate:90
+1 (75)
+bounds:3978,2566,337,395
+offsets:0,0,512,512
+rotate:90
+1 (76)
+bounds:2460,2570,333,384
+offsets:0,0,512,512
+rotate:90
+1 (77)
+bounds:2846,2570,333,371
+offsets:0,0,512,512
+rotate:90
+1 (78)
+bounds:3219,2567,336,379
+offsets:0,0,512,512
+rotate:90
+1 (79)
+bounds:5154,2563,340,387
+offsets:0,0,512,512
+rotate:90
+1 (8)
+bounds:817,2572,331,369
+offsets:0,0,512,512
+rotate:90
+1 (80)
+bounds:427,2228,344,385
+offsets:0,0,512,512
+rotate:90
+1 (81)
+bounds:5534,2212,348,373
+offsets:0,0,512,512
+rotate:90
+1 (82)
+bounds:1211,1871,360,352
+offsets:0,0,512,512
+1 (83)
+bounds:2788,1865,377,352
+offsets:0,0,512,512
+1 (84)
+bounds:2,799,400,359
+offsets:0,0,512,512
+1 (85)
+bounds:4978,773,424,361
+offsets:0,0,512,512
+1 (86)
+bounds:6912,1133,442,358
+offsets:0,0,512,512
+1 (87)
+bounds:801,1515,445,354
+offsets:0,0,512,512
+1 (88)
+bounds:1248,1514,443,354
+offsets:0,0,512,512
+1 (89)
+bounds:4521,397,434,376
+offsets:0,0,512,512
+1 (9)
+bounds:3600,2567,336,376
+offsets:0,0,512,512
+rotate:90
+1 (90)
+bounds:403,37,416,391
+offsets:0,0,512,512
+1 (91)
+bounds:2,38,390,399
+offsets:0,0,512,512
+rotate:90
+1 (92)
+bounds:5404,773,361,414
+offsets:0,0,512,512
+rotate:90
+1 (93)
+bounds:6788,2561,342,429
+offsets:0,0,512,512
+rotate:90
+1 (94)
+bounds:1627,2571,332,433
+offsets:0,0,512,512
+rotate:90
+1 (95)
+bounds:7219,2561,342,418
+offsets:0,0,512,512
+rotate:90
+1 (96)
+bounds:7055,768,362,409
+offsets:0,0,512,512
+rotate:90
+1 (97)
+bounds:4957,391,380,404
+offsets:0,0,512,512
+rotate:90
+1 (98)
+bounds:6624,384,383,411
+offsets:0,0,512,512
+rotate:90
+1 (99)
+bounds:4107,400,375,412
+offsets:0,0,512,512
+rotate:90
+GH
+bounds:821,32,394,394
+offsets:5,5,404,404
+frame
+bounds:1628,2,420,421
+rotate:90
+guang1
+bounds:2,2851,52,52
+offsets:2,2,55,56

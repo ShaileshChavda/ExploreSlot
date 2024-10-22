@@ -1,0 +1,15 @@
+Angel Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.93
+body
+bounds:2,2,559,471
+bottom fin 1
+bounds:563,908,57,93
+bottom fin 2
+bounds:563,704,26,109
+fin
+bounds:563,815,57,91
+frozen
+bounds:2,475,559,526

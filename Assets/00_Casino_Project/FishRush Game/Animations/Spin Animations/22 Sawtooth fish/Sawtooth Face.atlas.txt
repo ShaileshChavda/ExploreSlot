@@ -1,0 +1,17 @@
+Sawtooth Face.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,840,325
+fin 1
+bounds:844,480,95,95
+fin 2
+bounds:844,398,80,55
+offsets:0,0,80,56
+rotate:90
+fin 3
+bounds:844,577,124,99
+rotate:90
+frozen
+bounds:2,329,840,372

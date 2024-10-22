@@ -1,0 +1,18 @@
+Big Eye Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.92
+Body
+bounds:551,78,462,753
+Fin
+bounds:309,4,72,76
+rotate:90
+TOP FIN1
+bounds:2,2,74,305
+rotate:90
+TOP FIN2
+bounds:387,21,55,282
+rotate:90
+frozen
+bounds:2,78,547,753

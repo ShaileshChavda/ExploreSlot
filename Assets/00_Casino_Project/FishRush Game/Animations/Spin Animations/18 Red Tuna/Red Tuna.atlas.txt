@@ -1,0 +1,11 @@
+Red Tuna.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Fin
+bounds:2,2,90,131
+rotate:90
+body
+bounds:399,94,365,707
+frozen
+bounds:2,94,395,707

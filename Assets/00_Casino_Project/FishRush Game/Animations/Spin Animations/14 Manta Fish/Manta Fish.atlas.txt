@@ -1,0 +1,8 @@
+Manta Fish.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,2,825,883
+frozen
+bounds:829,2,825,883

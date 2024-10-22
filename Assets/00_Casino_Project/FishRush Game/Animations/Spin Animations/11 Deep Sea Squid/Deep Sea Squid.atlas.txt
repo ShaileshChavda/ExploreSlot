@@ -1,0 +1,13 @@
+Deep Sea Squid.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Body
+bounds:387,336,307,580
+rotate:90
+frozen
+bounds:2,2,332,943
+rotate:90
+tail left
+bounds:2,476,167,383
+rotate:90

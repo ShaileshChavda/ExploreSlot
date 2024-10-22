@@ -1,0 +1,8 @@
+Car Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,308,596
+frozen
+bounds:312,2,308,596

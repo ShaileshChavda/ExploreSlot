@@ -1,0 +1,159 @@
+{
+"skeleton": {
+	"hash": "DYRoR56OQ3I",
+	"spine": "4.1.24",
+	"x": -120,
+	"y": -4.06,
+	"width": 249.45,
+	"height": 318.74,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Main_bone", "parent": "root" },
+	{ "name": "Fire", "parent": "Main_bone", "x": -65.85, "y": -85.92, "scaleX": 1.1731, "scaleY": 0.8978 },
+	{ "name": "Fire2", "parent": "Main_bone", "x": 74.19, "y": -65.96, "scaleX": -1.2736, "scaleY": 0.9264 },
+	{ "name": "Fire3", "parent": "Main_bone", "x": 6.32, "y": -91.5, "scaleX": 1.8016, "scaleY": 1.2438 },
+	{ "name": "card BG", "parent": "Main_bone", "x": 4.07, "y": 156.44 },
+	{ "name": "Fire4", "parent": "Main_bone", "x": 74.19, "y": -65.96, "scaleX": -1.2736, "scaleY": 0.9264 },
+	{ "name": "Fire5", "parent": "Main_bone", "x": -65.85, "y": -85.92, "scaleX": 1.1731, "scaleY": 0.8978 },
+	{ "name": "Fire6", "parent": "Main_bone", "x": 6.32, "y": -91.5, "scaleX": 1.8016, "scaleY": 1.2438 }
+],
+"slots": [
+	{ "name": "card BG", "bone": "card BG" },
+	{ "name": "Card_border", "bone": "Main_bone", "attachment": "Card_border" },
+	{ "name": "Fire3", "bone": "Fire3", "attachment": "Fire_", "blend": "screen" },
+	{ "name": "Fire6", "bone": "Fire6", "color": "ffffffd3", "attachment": "Fire_" },
+	{ "name": "Fire2", "bone": "Fire2", "attachment": "Fire_", "blend": "screen" },
+	{ "name": "Fire4", "bone": "Fire4", "color": "ffffffd3", "attachment": "Fire_" },
+	{ "name": "Fire", "bone": "Fire", "attachment": "Fire_", "blend": "screen" },
+	{ "name": "Fire5", "bone": "Fire5", "color": "ffffffd3", "attachment": "Fire_" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Card_border": {
+				"Card_border": {
+					"type": "clipping",
+					"end": "Card_border",
+					"vertexCount": 20,
+					"vertices": [ -108.15, 278.86, -106.43, 285.74, -101.34, 293.23, -94.87, 299.17, -85.67, 302.24, 92.88, 302.6, 100.2, 300.16, 108.33, 294.55, 113.71, 288.77, 116.72, 281.74, 118.21, 33.67, 115.16, 25.26, 109.88, 18.21, 104.09, 12.83, 96.61, 9.07, -85.71, 9.22, -93.42, 11.88, -100.39, 17.42, -105.94, 23.48, -109.81, 30.69 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"Fire": {
+				"Fire_": {
+					"x": -3.01,
+					"y": 136.27,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			},
+			"Fire2": {
+				"Fire_": {
+					"x": -0.32,
+					"y": 124.85,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			},
+			"Fire3": {
+				"Fire_": {
+					"x": -3.01,
+					"y": 136.27,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			},
+			"Fire4": {
+				"Fire_": {
+					"x": -0.32,
+					"y": 124.85,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			},
+			"Fire5": {
+				"Fire_": {
+					"x": -3.01,
+					"y": 136.27,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			},
+			"Fire6": {
+				"Fire_": {
+					"x": -3.01,
+					"y": 136.27,
+					"width": 437,
+					"height": 498,
+					"sequence": { "count": 20, "start": 0 }
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Fire_card": {
+		"attachments": {
+			"default": {
+				"Fire": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "index": 11, "delay": 0.05 },
+							{ "time": 1.3333, "mode": "loop" }
+						]
+					}
+				},
+				"Fire2": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "index": 7, "delay": 0.05 },
+							{ "time": 1.3333, "mode": "loop" }
+						]
+					}
+				},
+				"Fire3": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "delay": 0.05 },
+							{ "time": 1.6667, "mode": "loop", "index": 19 }
+						]
+					}
+				},
+				"Fire4": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "index": 7, "delay": 0.05 },
+							{ "time": 1.3333, "mode": "loop" }
+						]
+					}
+				},
+				"Fire5": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "index": 11, "delay": 0.05 },
+							{ "time": 1.3333, "mode": "loop" }
+						]
+					}
+				},
+				"Fire6": {
+					"Fire_": {
+						"sequence": [
+							{ "mode": "loop", "delay": 0.05 },
+							{ "time": 1.6667, "mode": "loop", "index": 19 }
+						]
+					}
+				}
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,19 @@
+Wild Key.png
+size:1644,1644
+filter:Linear,Linear
+pma:true
+scale:0.9
+Key
+bounds:915,162,700,605
+offsets:1,1,702,607
+Key_frame
+bounds:2,938,968,702
+Key_glow
+bounds:971,769,871,669
+offsets:7,0,885,669
+rotate:90
+Wild_key_bg
+bounds:2,268,911,668
+Wild_text
+bounds:2,55,513,211
+offsets:1,0,515,212

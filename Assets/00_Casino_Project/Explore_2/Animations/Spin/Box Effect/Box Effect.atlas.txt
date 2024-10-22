@@ -1,0 +1,6 @@
+Box Effect.png
+size:504,504
+filter:Linear,Linear
+pma:true
+Frame_effect
+bounds:2,437,500,65

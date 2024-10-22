@@ -1,0 +1,61 @@
+Full Dragon.png
+size:4040,4040
+filter:Linear,Linear
+pma:true
+Box Electric/Box Electric_01
+bounds:2762,2092,400,400
+Box Electric/Box Electric_02
+bounds:2762,2494,400,400
+Box Electric/Box Electric_03
+bounds:2532,2896,400,400
+Box Electric/Box Electric_04
+bounds:2473,82,400,400
+Box Electric/Box Electric_05
+bounds:2473,484,400,400
+Box Electric/Box Electric_06
+bounds:2473,886,400,400
+Box Electric/Box Electric_07
+bounds:2437,3551,400,400
+Box Electric/Box Electric_08
+bounds:2360,1288,400,400
+Box Electric/Box Electric_09
+bounds:2360,1690,400,400
+Box Electric/Box Electric_10
+bounds:2360,2092,400,400
+Box Electric/Box Electric_11
+bounds:2360,2494,400,400
+Box Electric/Box Electric_12
+bounds:2071,31,400,400
+Box Electric/Box Electric_13
+bounds:2071,433,400,400
+Box Electric/Box Electric_14
+bounds:2071,835,400,400
+Box Electric/Box Electric_15
+bounds:1958,1237,400,400
+Box Electric/Box Electric_16
+bounds:1958,1639,400,400
+Box Electric/Box Electric_17
+bounds:1958,2041,400,400
+Box Electric/Box Electric_18
+bounds:1958,2443,400,400
+Dragon_Body
+bounds:78,236,810,1083
+offsets:0,0,964,1083
+rotate:90
+Dragon_Wings
+bounds:1240,2,1162,829
+rotate:270
+Dragon_face
+bounds:1915,2845,1192,615
+rotate:90
+Full_Dragon_BG
+bounds:988,2597,925,1440
+offsets:1,1,927,1442
+Full_Dragon_frame
+bounds:981,1048,975,1475
+offsets:1,1,977,1477
+Full_Dragon_frame_Shadow
+bounds:2,2525,984,1512
+offsets:6,5,995,1522
+Screen
+bounds:2,1046,977,1477

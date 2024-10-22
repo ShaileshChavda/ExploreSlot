@@ -1,0 +1,19 @@
+Squid Fish.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Body
+bounds:348,532,344,402
+frozen
+bounds:2,124,344,810
+long tail left
+bounds:2,63,59,439
+rotate:90
+long tail right
+bounds:2,2,59,439
+rotate:90
+long tail right copy
+bounds:598,282,59,248
+long tail right copy 2
+bounds:348,471,59,248
+rotate:90
